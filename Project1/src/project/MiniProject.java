@@ -156,17 +156,6 @@ public static void main(String[] args)
     	System.out.println("Invalid Input");
     
     }  
-    
-    System.out.println("Do You Wish To Continue :");
-    ch1 = input.next().charAt(0);
-
-while (ch1 == 'y' || ch1 == 'Y');
-
-	customer.open_account();
-
+    	System.out.println("\n       Thanku So Much For Choosing Us              \n");
 }
-    
- //   System.out.println("\n           THANK YOU SO MUCH TO CHOOSING US                     \n");    
-
-
- }
+}
