@@ -156,6 +156,6 @@ public static void main(String[] args)
     	System.out.println("Invalid Input");
     
     }  
-    	System.out.println("\n       Thanku So Much For Choosing Us              \n");
+    	System.out.println("\n         Thanku So Much For Choosing Us                \n");
 }
 }
