@@ -94,7 +94,7 @@ void acc_no()
     int min = 14000000;
     int max = 90000000;     
     
-    System.out.println("Your Account Number is :");  
+    System.out.println("\n Your Account Number is : \n");  
     accno =(int) (Math.random()*(max-min+1)+min);   
     System.out.println(accno);       
 }
